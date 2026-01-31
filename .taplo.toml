@@ -1,7 +1,12 @@
 exclude = [
+<<<<<<< HEAD
 	"Makefile.toml",
 	"poetry.toml",
 	"pyproject.toml",
+=======
+	".worktree",
+	"Makefile.toml",
+>>>>>>> 56548b9 (Update repository documentation and CI workflows)
 ]
 
 [formatting]

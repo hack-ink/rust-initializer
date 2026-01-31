@@ -14,6 +14,5 @@ fn main() -> Result<(), Box<dyn Error>> {
 	}
 
 	emitter.emit()?;
-
 	Ok(())
 }
